@@ -55,7 +55,7 @@ capture(height=480,width=680,cnt=0)
 ```
 実行すると「cnt_YYYYMMDD-HHMMSSmm.jpg」が保存される．
 
-<h2 id = "#03"> 3. image_processing.pt </h2>
+<h2 id = "#03"> 3. image_processing.py </h2>
 
 **関数一覧**
 |関数名|機能|
