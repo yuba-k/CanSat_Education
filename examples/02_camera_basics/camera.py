@@ -13,7 +13,7 @@ def capture(height, width, cnt):
     picam2.start()
 
     # ファイル名（撮影番号と日時入り）
-    filename = ~~~~~~~~~~~~~~~
+    filename = ~~~~~~~~~~~~~~~~
 
     # 撮影して保存
     picam2.capture_file(filename)
